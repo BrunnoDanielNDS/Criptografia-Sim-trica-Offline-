@@ -1,2 +1,2 @@
-# Criptografia-Sim-trica-Offline-
+# Criptografia-Simétrica-Offline-
 Criptografia Simétrica (Offline)
